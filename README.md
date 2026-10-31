@@ -2,7 +2,7 @@
 
 A launch page for a concept smartwatch, built around a real 3D model that turns as you scroll. The watch is made entirely in code with [Three.js](https://threejs.org/): no model files, no images.
 
-**Live:** https://jeevan2410.github.io/Landing-Page/
+**Live:** https://3t3rn4tu5.github.io/Landing-Page/
 
 ![Halcyon One hero with the 3D watch showing the time](assets/screenshot.webp)
 
